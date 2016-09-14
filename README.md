@@ -15,7 +15,7 @@
 
 **Step 7:** Now Select Extend Access Token and copy this token.
 
-**Step 8:** Go back to https://developers.facebook.com/tools/explorer/ and paste this code back into the Access token field and change the Get Token to the Pages name and click the (i) icon again and select Open in Access Token Tool, It should say Expires: never.
+**Step 8:** Go back to https://developers.facebook.com/tools/explorer/ and paste this token back into the Access token field and change the Get Token to the Pages name and click the (i) icon again and select Open in Access Token Tool, It should say Expires: never.
 
 **Step 9:** Copy the token at the top of the page next to where it says debug. Now you can fill out the fields in the gallery script with the account name being the pages ID, Paste the access token in under access_token and you are ready to run the script.
 
