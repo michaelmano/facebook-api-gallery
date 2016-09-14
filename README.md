@@ -7,11 +7,11 @@
 
 **Step 3:** Copy the App ID into your notepad.
 
-**Step 4:** Go to https://developers.facebook.com/tools/explorer/ and up the top right where it says Application: **[?] Graph API Explorer Change it to your apps name.
+**Step 4:** Go to https://developers.facebook.com/tools/explorer/ and up the top right where it says Application: [?] Graph API Explorer Change it to your apps name.
 
-**Step 5:** Now where it says Access Token: **on the right hand side where it says Get Token, Change this to get page access token and Allow it when the pop up comes up.
+**Step 5:** Now where it says Access Token: on the right hand side where it says Get Token, Change this to get page access token and Allow it when the pop up comes up.
 
-**Step 6:** Where it says Access Token: **select the Information Icon (i) at the left of the input. and now select the bottom right button. Open in Access Token tool.
+**Step 6:** Where it says Access Token: select the Information Icon (i) at the left of the input. and now select the bottom right button. Open in Access Token tool.
 
 **Step 7:** Now Select Extend Access Token and copy this token.
 
