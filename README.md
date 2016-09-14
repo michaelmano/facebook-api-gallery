@@ -1,7 +1,7 @@
 # facebook-api-gallery
 ##Simple cronjob script that pulls all image URLS from the facebook API and builds a gallery file
 
-**Step 1:** Go to your facebook page which should already be created, if not create one and grab the id seen in the URL some times they are the name of the page and a hyphen e.g. test-298679667156513 the numbers are your id. Paste this into a notepad.
+**Step 1:** Go to your facebook page which should already be created, If not create one and grab the id seen in the URL some times they are the name of the page or the name and a hyphen e.g. test-298679667156513 the numbers are your id. Paste this into a notepad.
 
 **Step 2:** Create an app here https://developers.facebook.com/apps/ Once created Go back to https://developers.facebook.com/apps/ and select the app.
 
